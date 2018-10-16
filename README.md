@@ -15,7 +15,7 @@ Some notes, assignments, labs while taking the course.
 * [Lab4 - Logistic Regression for Breast Cancer](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab4%20-%20Logistic%20Regression%20for%20Breast%20Cancer)
   - packages : sklearn.linear_model.LogisticRegression| sklearn.preprocessing | sklearn.datasets
   - tags : Classification | Multi-Class Logistic Regression | Soft-Max | Transformed Feature | Numerical Optimization 
-* [Lab5 - Optimization for Audio Pitch Detection]https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab5%20-%20Optimization%20for%20Audio%20Pitch%20Detection)
+* [Lab5 - Optimization for Audio Pitch Detection](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab5%20-%20Optimization%20for%20Audio%20Pitch%20Detection)
   - packages : scipy.io.wavfile | IPython.display | broadcast
   - tags : Optimization | Gradient Descent | Armijo Rule | FFT | First-Order Approximation | Audio File | Harmonics
 * [Lab6 - SVMs on Extended MNIST](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab6%20-%20SVMs%20on%20Extended%20MNIST)
