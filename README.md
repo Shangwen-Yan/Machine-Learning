@@ -6,21 +6,29 @@ Some notes, assignments, labs while taking the course.
 * Demos are created by the professor, I just do it again and add some personal comments to help me better understand while reviewing.
 
 ## Labs
-* [Lab2 - Multiple Linear Regression for Robot Calibration](https://github.com/Shangwen-Yan/Machine_Learning/tree/master/Labs/Lab2%20-%20Multiple%20Linear%20Regression%20for%20Robot%20Calibration)
+* [Lab2 - Multiple Linear Regression for Robot Calibration](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab2%20-%20Multiple%20Linear%20Regression%20for%20Robot%20Calibration)
   - packages : numpy | pandas | matplotlib.pyplot | sklearn.linear_model 
   - tags: csv | Cross Validation
-* [Lab3 - Model Selection for Neural Data](https://github.com/Shangwen-Yan/Machine_Learning/tree/master/Labs/Lab3%20-%20Model%20Selection%20for%20Neural%20Data)
+* [Lab3 - Model Selection for Neural Data](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab3%20-%20Model%20Selection%20for%20Neural%20Data)
   - packages : numpy | matplotlib.pyplot | scipy.io | sklearn.linear_model | sklearn.preprocessing | sklearn.model_selection
   - tags : LASSO | K-Fold | One Standard Error Rule | MATLAB Data | 
-* [Lab4 - Logistic Regression for Breast Cancer](https://github.com/Shangwen-Yan/Machine_Learning/tree/master/Labs/Lab4%20-%20Logistic%20Regression%20for%20Breast%20Cancer)
+* [Lab4 - Logistic Regression for Breast Cancer](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab4%20-%20Logistic%20Regression%20for%20Breast%20Cancer)
   - packages : sklearn.linear_model.LogisticRegression| sklearn.preprocessing | sklearn.datasets
   - tags : Classification | Multi-Class Logistic Regression | Soft-Max | Transformed Feature | Numerical Optimization 
-* [Lab5 - Optimization for Audio Pitch Detection](https://github.com/Shangwen-Yan/Machine_Learning/tree/master/Labs/Lab5%20-%20Optimization%20for%20Audio%20Pitch%20Detection)
+* [Lab5 - Optimization for Audio Pitch Detection]https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab5%20-%20Optimization%20for%20Audio%20Pitch%20Detection)
   - packages : scipy.io.wavfile | IPython.display | broadcast
   - tags : Optimization | Gradient Descent | Armijo Rule | FFT | First-Order Approximation | Audio File | Harmonics
-* [Lab6 - SVMs on Extended MNIST](https://github.com/Shangwen-Yan/Machine_Learning/tree/master/Labs/Lab6%20-%20SVMs%20on%20Extended%20MNIST)
+* [Lab6 - SVMs on Extended MNIST](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab6%20-%20SVMs%20on%20Extended%20MNIST)
   - packages : skimage | matplotlib.image | Exception Control | sklearn.svm | pickle
   - tags : Detection & Classification | Support Vector Machine | Confusion Matrix | OTSU threshold | Serialization | Interpolation
+* [Lab7 - Neural Network for Music Instrument Classification](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab7%20-%20Neural%20Network%20for%20Music%20Instrument%20Classification)
+
+* [Lab8 - Transfer Learning with Pre-Trained Deep Neural Network](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab8%20-Transfer%20Learning%20with%20Pre-Trained%20Deep%20Neural%20Network)
+
+ * [Lab9 - Princpal Component Analysis](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab9%20-%20Princpal%20Component%20Analysis)
+
+* [Lab10 - Clustering K-Means and EM](https://github.com/Shangwen-Yan/Machine_Leaning/tree/master/Labs/Lab10%20-%20Clustering%20K-Means%20and%20EM)
+
   
 ## Study Notes
 * Sort of in mess...
