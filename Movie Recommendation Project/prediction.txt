@@ -1,0 +1,808 @@
+====================================================================
+For user  652
+========Recommend Movies=======
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Silence of the Lambs, The (1991)  ||genres:  Crime|Horror|Thriller
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Jurassic Park (1993)  ||genres:  Action|Adventure|Sci-Fi|Thriller
+Movie name:  Fugitive, The (1993)  ||genres:  Thriller
+Movie name:  Dances with Wolves (1990)  ||genres:  Adventure|Drama|Western
+Movie name:  Apollo 13 (1995)  ||genres:  Adventure|Drama|IMAX
+Movie name:  True Lies (1994)  ||genres:  Action|Adventure|Comedy|Romance|Thriller
+Movie name:  Batman (1989)  ||genres:  Action|Crime|Thriller
+Movie name:  Aladdin (1992)  ||genres:  Adventure|Animation|Children|Comedy|Musical
+Movie name:  Terminator 2: Judgment Day (1991)  ||genres:  Action|Sci-Fi
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Braveheart (1995)  ||genres:  Action|Drama|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Stargate (1994)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Die Hard: With a Vengeance (1995)  ||genres:  Action|Crime|Thriller
+Movie name:  Clear and Present Danger (1994)  ||genres:  Action|Crime|Drama|Thriller
+Movie name:  Lion King, The (1994)  ||genres:  Adventure|Animation|Children|Drama|Musical|IMAX
+========Actually Seen Movies=======
+Movie name:  Breathless (1983)  || genres:  Action|Drama|Romance|Thriller
+Rating:  3.0
+Movie name:  Buster Keaton: A Hard Act to Follow (1987)  || genres:  Documentary
+Rating:  4.5
+Movie name:  Running on Empty (1988)  || genres:  Drama
+Rating:  5.0
+====================================================================
+For user  653
+========Recommend Movies=======
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Lethal Weapon 4 (1998)  ||genres:  Action|Comedy|Crime|Thriller
+Movie name:  ¡Three Amigos! (1986)  ||genres:  Comedy|Western
+Movie name:  JFK (1991)  ||genres:  Drama|Mystery|Thriller
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Bourne Ultimatum, The (2007)  ||genres:  Action|Crime|Thriller
+Movie name:  Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)  ||genres:  Comedy|Romance
+Movie name:  Rocky V (1990)  ||genres:  Action|Drama
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+Movie name:  Perfect Murder, A (1998)  ||genres:  Thriller
+Movie name:  10 Things I Hate About You (1999)  ||genres:  Comedy|Romance
+Movie name:  Muppet Movie, The (1979)  ||genres:  Adventure|Children|Comedy|Musical
+Movie name:  Waking Ned Devine (a.k.a. Waking Ned) (1998)  ||genres:  Comedy
+Movie name:  Blade (1998)  ||genres:  Action|Horror|Thriller
+Movie name:  Beautiful Mind, A (2001)  ||genres:  Drama|Romance
+Movie name:  West Side Story (1961)  ||genres:  Drama|Musical|Romance
+Movie name:  Iron Man (2008)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  12 Angry Men (1957)  ||genres:  Drama
+Movie name:  Tank Girl (1995)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Saving Private Ryan (1998)  ||genres:  Action|Drama|War
+========Actually Seen Movies=======
+Movie name:  Flirt (1995)  || genres:  Drama
+Rating:  3.0
+Movie name:  Son of Dracula (1943)  || genres:  Horror
+Rating:  5.0
+Movie name:  Richard III (1995)  || genres:  Drama|War
+Rating:  5.0
+Movie name:  Bambi (1942)  || genres:  Animation|Children|Drama
+Rating:  5.0
+Movie name:  This Is Spinal Tap (1984)  || genres:  Comedy
+Rating:  5.0
+Movie name:  Pallbearer, The (1996)  || genres:  Comedy
+Rating:  4.0
+Movie name:  Children of the Corn (1984)  || genres:  Horror|Thriller
+Rating:  5.0
+Movie name:  Big Lebowski, The (1998)  || genres:  Comedy|Crime
+Rating:  3.0
+Movie name:  Menace II Society (1993)  || genres:  Action|Crime|Drama
+Rating:  4.0
+Movie name:  eXistenZ (1999)  || genres:  Action|Sci-Fi|Thriller
+Rating:  3.0
+====================================================================
+For user  654
+========Recommend Movies=======
+Movie name:  Who's Afraid of Virginia Woolf? (1966)  ||genres:  Drama
+Movie name:  Cabaret (1972)  ||genres:  Drama|Musical
+Movie name:  Away We Go (2009)  ||genres:  Comedy|Drama|Romance
+Movie name:  Brothers Bloom, The (2008)  ||genres:  Adventure|Comedy|Crime|Romance
+Movie name:  Angels & Demons (2009)  ||genres:  Crime|Drama|Mystery|Thriller
+Movie name:  City of Angels (1998)  ||genres:  Drama|Fantasy|Romance
+Movie name:  House on Haunted Hill (1999)  ||genres:  Horror|Thriller
+Movie name:  Curious Case of Benjamin Button, The (2008)  ||genres:  Drama|Fantasy|Mystery|Romance
+Movie name:  To Wong Foo, Thanks for Everything! Julie Newmar (1995)  ||genres:  Comedy
+Movie name:  Bicentennial Man (1999)  ||genres:  Drama|Romance|Sci-Fi
+Movie name:  Yellow Submarine (1968)  ||genres:  Adventure|Animation|Comedy|Fantasy|Musical
+Movie name:  Enemy of the State (1998)  ||genres:  Action|Thriller
+Movie name:  Bride of Chucky (Child's Play 4) (1998)  ||genres:  Comedy|Horror|Thriller
+Movie name:  Urban Legend (1998)  ||genres:  Horror|Thriller
+Movie name:  Rounders (1998)  ||genres:  Drama
+Movie name:  Siege, The (1998)  ||genres:  Action|Thriller
+Movie name:  Waterboy, The (1998)  ||genres:  Comedy
+Movie name:  Very Bad Things (1998)  ||genres:  Comedy|Crime
+Movie name:  Vampires (1998)  ||genres:  Horror|Western
+Movie name:  Psycho (1998)  ||genres:  Crime|Horror|Thriller
+========Actually Seen Movies=======
+Movie name:  Dirty Dancing (1987)  || genres:  Drama|Musical|Romance
+Rating:  3.0
+Movie name:  Happy-Go-Lucky (2008)  || genres:  Comedy|Drama
+Rating:  4.5
+Movie name:  No Nukes (1980)  || genres:  Documentary|Musical
+Rating:  4.5
+Movie name:  Rock 'N' Roll High School (1979)  || genres:  Comedy|Musical
+Rating:  4.0
+Movie name:  Walk the Line (2005)  || genres:  Drama|Musical|Romance
+Rating:  4.0
+Movie name:  Robe, The (1953)  || genres:  Drama
+Rating:  4.0
+Movie name:  Ugly, The (1997)  || genres:  Horror|Thriller
+Rating:  3.5
+Movie name:  Cookie's Fortune (1999)  || genres:  Comedy|Drama
+Rating:  4.0
+Movie name:  Martin (1977)  || genres:  Drama|Horror
+Rating:  3.5
+Movie name:  Louis C.K.: Oh My God (2013)  || genres:  Comedy
+Rating:  4.5
+====================================================================
+For user  655
+========Recommend Movies=======
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Lethal Weapon 4 (1998)  ||genres:  Action|Comedy|Crime|Thriller
+Movie name:  ¡Three Amigos! (1986)  ||genres:  Comedy|Western
+Movie name:  JFK (1991)  ||genres:  Drama|Mystery|Thriller
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Bourne Ultimatum, The (2007)  ||genres:  Action|Crime|Thriller
+Movie name:  Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)  ||genres:  Comedy|Romance
+Movie name:  Rocky V (1990)  ||genres:  Action|Drama
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+Movie name:  Perfect Murder, A (1998)  ||genres:  Thriller
+Movie name:  10 Things I Hate About You (1999)  ||genres:  Comedy|Romance
+Movie name:  Muppet Movie, The (1979)  ||genres:  Adventure|Children|Comedy|Musical
+Movie name:  Waking Ned Devine (a.k.a. Waking Ned) (1998)  ||genres:  Comedy
+Movie name:  Blade (1998)  ||genres:  Action|Horror|Thriller
+Movie name:  Beautiful Mind, A (2001)  ||genres:  Drama|Romance
+Movie name:  West Side Story (1961)  ||genres:  Drama|Musical|Romance
+Movie name:  Iron Man (2008)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  12 Angry Men (1957)  ||genres:  Drama
+Movie name:  Tank Girl (1995)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Saving Private Ryan (1998)  ||genres:  Action|Drama|War
+========Actually Seen Movies=======
+Movie name:  Life Aquatic with Steve Zissou, The (2004)  || genres:  Adventure|Comedy|Fantasy
+Rating:  4.0
+Movie name:  ...And God Spoke (1993)  || genres:  Comedy
+Rating:  3.5
+Movie name:  Pulse (2006)  || genres:  Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+Rating:  3.0
+====================================================================
+For user  656
+========Recommend Movies=======
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Silence of the Lambs, The (1991)  ||genres:  Crime|Horror|Thriller
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Shrek (2001)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy|Romance
+Movie name:  Fargo (1996)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Fight Club (1999)  ||genres:  Action|Crime|Drama|Thriller
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Trainspotting (1996)  ||genres:  Comedy|Crime|Drama
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Men in Black (a.k.a. MIB) (1997)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  One Flew Over the Cuckoo's Nest (1975)  ||genres:  Drama
+Movie name:  Ronin (1998)  ||genres:  Action|Crime|Thriller
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Truman Show, The (1998)  ||genres:  Comedy|Drama|Sci-Fi
+Movie name:  Graduate, The (1967)  ||genres:  Comedy|Drama|Romance
+Movie name:  Twelve Monkeys (a.k.a. 12 Monkeys) (1995)  ||genres:  Mystery|Sci-Fi|Thriller
+Movie name:  Godfather: Part II, The (1974)  ||genres:  Crime|Drama
+========Actually Seen Movies=======
+Movie name:  Snow Dogs (2002)  || genres:  Adventure|Children|Comedy
+Rating:  5.0
+Movie name:  Female Trouble (1975)  || genres:  Comedy|Crime
+Rating:  4.0
+Movie name:  Moon Over Parador (1988)  || genres:  Comedy
+Rating:  5.0
+Movie name:  Serpico (1973)  || genres:  Crime|Drama
+Rating:  4.0
+Movie name:  Crime and Punishment in Suburbia (2000)  || genres:  Comedy|Drama
+Rating:  5.0
+Movie name:  Lord of the Flies (1963)  || genres:  Adventure|Drama|Thriller
+Rating:  5.0
+Movie name:  9 1/2 Weeks (Nine 1/2 Weeks) (1986)  || genres:  Drama|Romance
+Rating:  5.0
+Movie name:  Beyond, The (E tu vivrai nel terrore - L'aldilà) (1981)  || genres:  Horror
+Rating:  5.0
+Movie name:  Crimson Pirate, The (1952)  || genres:  Adventure|Comedy
+Rating:  4.0
+Movie name:  RoboCop (1987)  || genres:  Action|Crime|Drama|Sci-Fi|Thriller
+Rating:  5.0
+====================================================================
+For user  657
+========Recommend Movies=======
+Movie name:  L.A. Confidential (1997)  ||genres:  Crime|Film-Noir|Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Boogie Nights (1997)  ||genres:  Drama
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Sixth Sense, The (1999)  ||genres:  Drama|Horror|Mystery
+Movie name:  One Flew Over the Cuckoo's Nest (1975)  ||genres:  Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Fifth Element, The (1997)  ||genres:  Action|Adventure|Comedy|Sci-Fi
+Movie name:  Breakfast at Tiffany's (1961)  ||genres:  Drama|Romance
+Movie name:  Spirited Away (Sen to Chihiro no kamikakushi) (2001)  ||genres:  Adventure|Animation|Fantasy
+Movie name:  Magnolia (1999)  ||genres:  Drama
+Movie name:  Men in Black (a.k.a. MIB) (1997)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Monsters, Inc. (2001)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Inception (2010)  ||genres:  Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+Movie name:  Titanic (1997)  ||genres:  Drama|Romance
+Movie name:  African Queen, The (1951)  ||genres:  Adventure|Comedy|Romance|War
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Ocean's Eleven (2001)  ||genres:  Crime|Thriller
+========Actually Seen Movies=======
+Movie name:  Halfmoon (Paul Bowles - Halbmond) (1995)  || genres:  Drama
+Rating:  4.0
+Movie name:  They Made Me a Criminal (1939)  || genres:  Crime|Drama
+Rating:  2.0
+Movie name:  Cable Guy, The (1996)  || genres:  Comedy|Thriller
+Rating:  3.0
+Movie name:  Nobody's Fool (1994)  || genres:  Comedy|Drama|Romance
+Rating:  4.0
+Movie name:  Mirage (1995)  || genres:  Action|Thriller
+Rating:  3.0
+Movie name:  Tank Girl (1995)  || genres:  Action|Comedy|Sci-Fi
+Rating:  4.0
+Movie name:  Crow, The (1994)  || genres:  Action|Crime|Fantasy|Thriller
+Rating:  3.0
+Movie name:  Little Buddha (1993)  || genres:  Drama
+Rating:  4.0
+Movie name:  Mute Witness (1994)  || genres:  Comedy|Horror|Thriller
+Rating:  4.0
+Movie name:  Program, The (1993)  || genres:  Action|Drama
+Rating:  4.0
+====================================================================
+For user  658
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Lord of the Rings: The Two Towers, The (2002)  ||genres:  Adventure|Fantasy
+Movie name:  Memento (2000)  ||genres:  Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Dracula (Bram Stoker's Dracula) (1992)  ||genres:  Fantasy|Horror|Romance|Thriller
+Movie name:  Lord of the Rings: The Fellowship of the Ring, The (2001)  ||genres:  Adventure|Fantasy
+Movie name:  Beverly Hills Cop (1984)  ||genres:  Action|Comedy|Crime|Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Lord of the Rings: The Return of the King, The (2003)  ||genres:  Action|Adventure|Drama|Fantasy
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Ferris Bueller's Day Off (1986)  ||genres:  Comedy
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+========Actually Seen Movies=======
+Movie name:  Titanic (1953)  || genres:  Action|Drama
+Rating:  5.0
+Movie name:  For All Mankind (1989)  || genres:  Documentary
+Rating:  5.0
+Movie name:  Serpico (1973)  || genres:  Crime|Drama
+Rating:  5.0
+Movie name:  King of Masks, The (Bian Lian) (1996)  || genres:  Drama
+Rating:  5.0
+Movie name:  Substitute, The (1996)  || genres:  Action|Crime|Drama
+Rating:  5.0
+Movie name:  Air Up There, The (1994)  || genres:  Comedy
+Rating:  5.0
+Movie name:  Faces (1968)  || genres:  Drama
+Rating:  5.0
+Movie name:  My Best Friend's Wedding (1997)  || genres:  Comedy|Romance
+Rating:  5.0
+Movie name:  Outside Ozona (1998)  || genres:  Comedy|Drama|Thriller
+Rating:  5.0
+Movie name:  Monty Python and the Holy Grail (1975)  || genres:  Adventure|Comedy|Fantasy
+Rating:  5.0
+====================================================================
+For user  659
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Lord of the Rings: The Two Towers, The (2002)  ||genres:  Adventure|Fantasy
+Movie name:  Memento (2000)  ||genres:  Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Dracula (Bram Stoker's Dracula) (1992)  ||genres:  Fantasy|Horror|Romance|Thriller
+Movie name:  Lord of the Rings: The Fellowship of the Ring, The (2001)  ||genres:  Adventure|Fantasy
+Movie name:  Beverly Hills Cop (1984)  ||genres:  Action|Comedy|Crime|Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Lord of the Rings: The Return of the King, The (2003)  ||genres:  Action|Adventure|Drama|Fantasy
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Ferris Bueller's Day Off (1986)  ||genres:  Comedy
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+========Actually Seen Movies=======
+Movie name:  Long Kiss Goodnight, The (1996)  || genres:  Action|Drama|Thriller
+Rating:  3.0
+Movie name:  Mary Poppins (1964)  || genres:  Children|Comedy|Fantasy|Musical
+Rating:  3.0
+Movie name:  Cold Comfort Farm (1995)  || genres:  Comedy
+Rating:  3.0
+Movie name:  Michael Collins (1996)  || genres:  Drama
+Rating:  3.0
+Movie name:  Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)  || genres:  Crime|Drama
+Rating:  4.0
+Movie name:  Designated Mourner, The (1997)  || genres:  Drama
+Rating:  4.0
+Movie name:  Swingers (1996)  || genres:  Comedy|Drama
+Rating:  5.0
+Movie name:  Mask, The (1994)  || genres:  Action|Comedy|Crime|Fantasy
+Rating:  3.0
+Movie name:  Rebecca (1940)  || genres:  Drama|Mystery|Romance|Thriller
+Rating:  2.0
+Movie name:  Casablanca (1942)  || genres:  Drama|Romance
+Rating:  3.0
+====================================================================
+For user  660
+========Recommend Movies=======
+Movie name:  Who's Afraid of Virginia Woolf? (1966)  ||genres:  Drama
+Movie name:  Cabaret (1972)  ||genres:  Drama|Musical
+Movie name:  Away We Go (2009)  ||genres:  Comedy|Drama|Romance
+Movie name:  Brothers Bloom, The (2008)  ||genres:  Adventure|Comedy|Crime|Romance
+Movie name:  Angels & Demons (2009)  ||genres:  Crime|Drama|Mystery|Thriller
+Movie name:  City of Angels (1998)  ||genres:  Drama|Fantasy|Romance
+Movie name:  House on Haunted Hill (1999)  ||genres:  Horror|Thriller
+Movie name:  Curious Case of Benjamin Button, The (2008)  ||genres:  Drama|Fantasy|Mystery|Romance
+Movie name:  To Wong Foo, Thanks for Everything! Julie Newmar (1995)  ||genres:  Comedy
+Movie name:  Bicentennial Man (1999)  ||genres:  Drama|Romance|Sci-Fi
+Movie name:  Yellow Submarine (1968)  ||genres:  Adventure|Animation|Comedy|Fantasy|Musical
+Movie name:  Enemy of the State (1998)  ||genres:  Action|Thriller
+Movie name:  Bride of Chucky (Child's Play 4) (1998)  ||genres:  Comedy|Horror|Thriller
+Movie name:  Urban Legend (1998)  ||genres:  Horror|Thriller
+Movie name:  Rounders (1998)  ||genres:  Drama
+Movie name:  Siege, The (1998)  ||genres:  Action|Thriller
+Movie name:  Waterboy, The (1998)  ||genres:  Comedy
+Movie name:  Very Bad Things (1998)  ||genres:  Comedy|Crime
+Movie name:  Vampires (1998)  ||genres:  Horror|Western
+Movie name:  Psycho (1998)  ||genres:  Crime|Horror|Thriller
+========Actually Seen Movies=======
+Movie name:  The Gift (2015)  || genres:  Drama|Horror
+Rating:  4.0
+Movie name:  Southpaw (2015)  || genres:  Action|Drama
+Rating:  4.0
+====================================================================
+For user  661
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Fargo (1996)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Silence of the Lambs, The (1991)  ||genres:  Crime|Horror|Thriller
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Jurassic Park (1993)  ||genres:  Action|Adventure|Sci-Fi|Thriller
+Movie name:  Terminator 2: Judgment Day (1991)  ||genres:  Action|Sci-Fi
+Movie name:  Willy Wonka & the Chocolate Factory (1971)  ||genres:  Children|Comedy|Fantasy|Musical
+Movie name:  Independence Day (a.k.a. ID4) (1996)  ||genres:  Action|Adventure|Sci-Fi|Thriller
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Mission: Impossible (1996)  ||genres:  Action|Adventure|Mystery|Thriller
+Movie name:  Twelve Monkeys (a.k.a. 12 Monkeys) (1995)  ||genres:  Mystery|Sci-Fi|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)  ||genres:  Action|Adventure
+Movie name:  Braveheart (1995)  ||genres:  Action|Drama|War
+Movie name:  Rock, The (1996)  ||genres:  Action|Adventure|Thriller
+========Actually Seen Movies=======
+Movie name:  Foxfire (1996)  || genres:  Drama
+Rating:  2.5
+Movie name:  Crow, The (1994)  || genres:  Action|Crime|Fantasy|Thriller
+Rating:  5.0
+Movie name:  Beauty and the Beast (1991)  || genres:  Animation|Children|Fantasy|Musical|Romance|IMAX
+Rating:  4.5
+Movie name:  Punch-Drunk Love (2002)  || genres:  Comedy|Drama|Romance
+Rating:  3.5
+Movie name:  Infernal Affairs 2 (Mou gaan dou II) (2003)  || genres:  Action|Crime|Drama|Thriller
+Rating:  5.0
+Movie name:  Southpaw (2015)  || genres:  Action|Drama
+Rating:  4.0
+Movie name:  Speed 2: Cruise Control (1997)  || genres:  Action|Romance|Thriller
+Rating:  4.5
+Movie name:  St. Elmo's Fire (1985)  || genres:  Drama|Romance
+Rating:  5.0
+Movie name:  Spawn (1997)  || genres:  Action|Adventure|Sci-Fi|Thriller
+Rating:  4.5
+Movie name:  Sahara (2005)  || genres:  Action|Adventure|Comedy
+Rating:  5.0
+====================================================================
+For user  662
+========Recommend Movies=======
+Movie name:  L.A. Confidential (1997)  ||genres:  Crime|Film-Noir|Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Boogie Nights (1997)  ||genres:  Drama
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Sixth Sense, The (1999)  ||genres:  Drama|Horror|Mystery
+Movie name:  One Flew Over the Cuckoo's Nest (1975)  ||genres:  Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Fifth Element, The (1997)  ||genres:  Action|Adventure|Comedy|Sci-Fi
+Movie name:  Breakfast at Tiffany's (1961)  ||genres:  Drama|Romance
+Movie name:  Spirited Away (Sen to Chihiro no kamikakushi) (2001)  ||genres:  Adventure|Animation|Fantasy
+Movie name:  Magnolia (1999)  ||genres:  Drama
+Movie name:  Men in Black (a.k.a. MIB) (1997)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Monsters, Inc. (2001)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Inception (2010)  ||genres:  Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+Movie name:  Titanic (1997)  ||genres:  Drama|Romance
+Movie name:  African Queen, The (1951)  ||genres:  Adventure|Comedy|Romance|War
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Ocean's Eleven (2001)  ||genres:  Crime|Thriller
+========Actually Seen Movies=======
+Movie name:  Little Big League (1994)  || genres:  Comedy|Drama
+Rating:  3.0
+Movie name:  Browning Version, The (1994)  || genres:  Drama
+Rating:  3.0
+Movie name:  Eat Drink Man Woman (Yin shi nan nu) (1994)  || genres:  Comedy|Drama|Romance
+Rating:  3.0
+Movie name:  Sabrina (1954)  || genres:  Comedy|Romance
+Rating:  1.0
+Movie name:  Bhaji on the Beach (1993)  || genres:  Comedy|Drama
+Rating:  4.0
+Movie name:  Piano, The (1993)  || genres:  Drama|Romance
+Rating:  4.0
+Movie name:  Heavenly Creatures (1994)  || genres:  Crime|Drama
+Rating:  5.0
+Movie name:  Searching for Bobby Fischer (1993)  || genres:  Drama
+Rating:  3.0
+Movie name:  Mad Love (1995)  || genres:  Drama|Romance
+Rating:  4.0
+Movie name:  Beyond Bedlam (1993)  || genres:  Drama|Horror
+Rating:  3.0
+====================================================================
+For user  663
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Lord of the Rings: The Two Towers, The (2002)  ||genres:  Adventure|Fantasy
+Movie name:  Memento (2000)  ||genres:  Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Dracula (Bram Stoker's Dracula) (1992)  ||genres:  Fantasy|Horror|Romance|Thriller
+Movie name:  Lord of the Rings: The Fellowship of the Ring, The (2001)  ||genres:  Adventure|Fantasy
+Movie name:  Beverly Hills Cop (1984)  ||genres:  Action|Comedy|Crime|Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Lord of the Rings: The Return of the King, The (2003)  ||genres:  Action|Adventure|Drama|Fantasy
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Ferris Bueller's Day Off (1986)  ||genres:  Comedy
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+========Actually Seen Movies=======
+====================================================================
+For user  664
+========Recommend Movies=======
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Star Wars: Episode V - The Empire Strikes Back (1980)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Star Wars: Episode VI - Return of the Jedi (1983)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Fargo (1996)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Jurassic Park (1993)  ||genres:  Action|Adventure|Sci-Fi|Thriller
+Movie name:  Princess Bride, The (1987)  ||genres:  Action|Adventure|Comedy|Fantasy|Romance
+Movie name:  Silence of the Lambs, The (1991)  ||genres:  Crime|Horror|Thriller
+Movie name:  Twelve Monkeys (a.k.a. 12 Monkeys) (1995)  ||genres:  Mystery|Sci-Fi|Thriller
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Independence Day (a.k.a. ID4) (1996)  ||genres:  Action|Adventure|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)  ||genres:  Action|Adventure
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+========Actually Seen Movies=======
+Movie name:  Bill & Ted's Bogus Journey (1991)  || genres:  Adventure|Comedy|Fantasy|Sci-Fi
+Rating:  3.5
+Movie name:  Jackass: The Movie (2002)  || genres:  Action|Comedy|Documentary
+Rating:  2.5
+Movie name:  Last Exit to Brooklyn (1989)  || genres:  Drama
+Rating:  4.0
+Movie name:  Great Muppet Caper, The (1981)  || genres:  Children|Comedy
+Rating:  3.0
+Movie name:  Date with an Angel (1987)  || genres:  Comedy|Fantasy|Romance
+Rating:  4.0
+Movie name:  Eye, The (Gin gwai) (Jian gui) (2002)  || genres:  Thriller
+Rating:  4.0
+====================================================================
+For user  665
+========Recommend Movies=======
+Movie name:  Who's Afraid of Virginia Woolf? (1966)  ||genres:  Drama
+Movie name:  Cabaret (1972)  ||genres:  Drama|Musical
+Movie name:  Away We Go (2009)  ||genres:  Comedy|Drama|Romance
+Movie name:  Brothers Bloom, The (2008)  ||genres:  Adventure|Comedy|Crime|Romance
+Movie name:  Angels & Demons (2009)  ||genres:  Crime|Drama|Mystery|Thriller
+Movie name:  City of Angels (1998)  ||genres:  Drama|Fantasy|Romance
+Movie name:  House on Haunted Hill (1999)  ||genres:  Horror|Thriller
+Movie name:  Curious Case of Benjamin Button, The (2008)  ||genres:  Drama|Fantasy|Mystery|Romance
+Movie name:  To Wong Foo, Thanks for Everything! Julie Newmar (1995)  ||genres:  Comedy
+Movie name:  Bicentennial Man (1999)  ||genres:  Drama|Romance|Sci-Fi
+Movie name:  Yellow Submarine (1968)  ||genres:  Adventure|Animation|Comedy|Fantasy|Musical
+Movie name:  Enemy of the State (1998)  ||genres:  Action|Thriller
+Movie name:  Bride of Chucky (Child's Play 4) (1998)  ||genres:  Comedy|Horror|Thriller
+Movie name:  Urban Legend (1998)  ||genres:  Horror|Thriller
+Movie name:  Rounders (1998)  ||genres:  Drama
+Movie name:  Siege, The (1998)  ||genres:  Action|Thriller
+Movie name:  Waterboy, The (1998)  ||genres:  Comedy
+Movie name:  Very Bad Things (1998)  ||genres:  Comedy|Crime
+Movie name:  Vampires (1998)  ||genres:  Horror|Western
+Movie name:  Psycho (1998)  ||genres:  Crime|Horror|Thriller
+========Actually Seen Movies=======
+Movie name:  Pierrot le fou (1965)  || genres:  Crime|Drama
+Rating:  3.0
+Movie name:  Gung Ho (1986)  || genres:  Comedy|Drama
+Rating:  3.0
+Movie name:  History of Violence, A (2005)  || genres:  Action|Crime|Drama|Thriller
+Rating:  3.0
+Movie name:  Piano, The (1993)  || genres:  Drama|Romance
+Rating:  3.0
+Movie name:  Fahrenheit 9/11 (2004)  || genres:  Documentary
+Rating:  4.0
+Movie name:  Double Take (2001)  || genres:  Action|Comedy
+Rating:  2.0
+Movie name:  Petrified Forest, The (1936)  || genres:  Crime|Drama|Romance
+Rating:  3.0
+Movie name:  Exterminating Angel, The (Ángel exterminador, El) (1962)  || genres:  Comedy|Drama|Fantasy|Mystery
+Rating:  2.0
+Movie name:  Battle Hymn (1957)  || genres:  Drama
+Rating:  4.0
+Movie name:  Terminal, The (2004)  || genres:  Comedy|Drama|Romance
+Rating:  3.0
+====================================================================
+For user  666
+========Recommend Movies=======
+Movie name:  L.A. Confidential (1997)  ||genres:  Crime|Film-Noir|Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Boogie Nights (1997)  ||genres:  Drama
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Sixth Sense, The (1999)  ||genres:  Drama|Horror|Mystery
+Movie name:  One Flew Over the Cuckoo's Nest (1975)  ||genres:  Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Fifth Element, The (1997)  ||genres:  Action|Adventure|Comedy|Sci-Fi
+Movie name:  Breakfast at Tiffany's (1961)  ||genres:  Drama|Romance
+Movie name:  Spirited Away (Sen to Chihiro no kamikakushi) (2001)  ||genres:  Adventure|Animation|Fantasy
+Movie name:  Magnolia (1999)  ||genres:  Drama
+Movie name:  Men in Black (a.k.a. MIB) (1997)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Monsters, Inc. (2001)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Inception (2010)  ||genres:  Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+Movie name:  Titanic (1997)  ||genres:  Drama|Romance
+Movie name:  African Queen, The (1951)  ||genres:  Adventure|Comedy|Romance|War
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Ocean's Eleven (2001)  ||genres:  Crime|Thriller
+========Actually Seen Movies=======
+Movie name:  Nadja (1994)  || genres:  Drama
+Rating:  5.0
+Movie name:  Promise, The (Versprechen, Das) (1995)  || genres:  Drama|Romance
+Rating:  2.0
+Movie name:  Sabrina (1995)  || genres:  Comedy|Romance
+Rating:  5.0
+Movie name:  Anne Frank Remembered (1995)  || genres:  Documentary
+Rating:  3.0
+Movie name:  Bhaji on the Beach (1993)  || genres:  Comedy|Drama
+Rating:  4.0
+Movie name:  Little Big League (1994)  || genres:  Comedy|Drama
+Rating:  3.0
+Movie name:  Clerks (1994)  || genres:  Comedy
+Rating:  2.0
+Movie name:  Murder in the First (1995)  || genres:  Drama|Thriller
+Rating:  1.0
+Movie name:  Enfer, L' (1994)  || genres:  Drama
+Rating:  3.0
+Movie name:  Mrs. Winterbourne (1996)  || genres:  Comedy|Romance
+Rating:  3.0
+====================================================================
+For user  667
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Lord of the Rings: The Two Towers, The (2002)  ||genres:  Adventure|Fantasy
+Movie name:  Memento (2000)  ||genres:  Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Dracula (Bram Stoker's Dracula) (1992)  ||genres:  Fantasy|Horror|Romance|Thriller
+Movie name:  Lord of the Rings: The Fellowship of the Ring, The (2001)  ||genres:  Adventure|Fantasy
+Movie name:  Beverly Hills Cop (1984)  ||genres:  Action|Comedy|Crime|Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Lord of the Rings: The Return of the King, The (2003)  ||genres:  Action|Adventure|Drama|Fantasy
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Ferris Bueller's Day Off (1986)  ||genres:  Comedy
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+========Actually Seen Movies=======
+Movie name:  Delta of Venus (1995)  || genres:  Drama
+Rating:  2.0
+Movie name:  Black Sheep (1996)  || genres:  Comedy
+Rating:  3.0
+Movie name:  Faces (1968)  || genres:  Drama
+Rating:  4.0
+Movie name:  Mother (1996)  || genres:  Comedy
+Rating:  5.0
+Movie name:  2001: A Space Odyssey (1968)  || genres:  Adventure|Drama|Sci-Fi
+Rating:  5.0
+Movie name:  Time to Kill, A (1996)  || genres:  Drama|Thriller
+Rating:  4.0
+Movie name:  Cemetery Man (Dellamorte Dellamore) (1994)  || genres:  Horror
+Rating:  3.0
+Movie name:  Carried Away (1996)  || genres:  Drama|Romance
+Rating:  3.0
+Movie name:  Liar Liar (1997)  || genres:  Comedy
+Rating:  5.0
+Movie name:  Mixed Nuts (1994)  || genres:  Comedy
+Rating:  4.0
+====================================================================
+For user  668
+========Recommend Movies=======
+Movie name:  Who's Afraid of Virginia Woolf? (1966)  ||genres:  Drama
+Movie name:  Cabaret (1972)  ||genres:  Drama|Musical
+Movie name:  Away We Go (2009)  ||genres:  Comedy|Drama|Romance
+Movie name:  Brothers Bloom, The (2008)  ||genres:  Adventure|Comedy|Crime|Romance
+Movie name:  Angels & Demons (2009)  ||genres:  Crime|Drama|Mystery|Thriller
+Movie name:  City of Angels (1998)  ||genres:  Drama|Fantasy|Romance
+Movie name:  House on Haunted Hill (1999)  ||genres:  Horror|Thriller
+Movie name:  Curious Case of Benjamin Button, The (2008)  ||genres:  Drama|Fantasy|Mystery|Romance
+Movie name:  To Wong Foo, Thanks for Everything! Julie Newmar (1995)  ||genres:  Comedy
+Movie name:  Bicentennial Man (1999)  ||genres:  Drama|Romance|Sci-Fi
+Movie name:  Yellow Submarine (1968)  ||genres:  Adventure|Animation|Comedy|Fantasy|Musical
+Movie name:  Enemy of the State (1998)  ||genres:  Action|Thriller
+Movie name:  Bride of Chucky (Child's Play 4) (1998)  ||genres:  Comedy|Horror|Thriller
+Movie name:  Urban Legend (1998)  ||genres:  Horror|Thriller
+Movie name:  Rounders (1998)  ||genres:  Drama
+Movie name:  Siege, The (1998)  ||genres:  Action|Thriller
+Movie name:  Waterboy, The (1998)  ||genres:  Comedy
+Movie name:  Very Bad Things (1998)  ||genres:  Comedy|Crime
+Movie name:  Vampires (1998)  ||genres:  Horror|Western
+Movie name:  Psycho (1998)  ||genres:  Crime|Horror|Thriller
+========Actually Seen Movies=======
+Movie name:  Tom & Viv (1994)  || genres:  Drama
+Rating:  5.0
+Movie name:  Crow, The (1994)  || genres:  Action|Crime|Fantasy|Thriller
+Rating:  4.0
+Movie name:  Titan A.E. (2000)  || genres:  Action|Adventure|Animation|Children|Sci-Fi
+Rating:  5.0
+Movie name:  RV (2006)  || genres:  Adventure|Children|Comedy
+Rating:  1.0
+Movie name:  Halfmoon (Paul Bowles - Halbmond) (1995)  || genres:  Drama
+Rating:  5.0
+Movie name:  Angus (1995)  || genres:  Comedy
+Rating:  5.0
+Movie name:  Singin' in the Rain (1952)  || genres:  Comedy|Musical|Romance
+Rating:  3.0
+Movie name:  Carrie (1976)  || genres:  Drama|Fantasy|Horror|Thriller
+Rating:  3.0
+Movie name:  Designated Mourner, The (1997)  || genres:  Drama
+Rating:  4.0
+Movie name:  Sweet Hereafter, The (1997)  || genres:  Drama
+Rating:  4.0
+====================================================================
+For user  669
+========Recommend Movies=======
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Lethal Weapon 4 (1998)  ||genres:  Action|Comedy|Crime|Thriller
+Movie name:  ¡Three Amigos! (1986)  ||genres:  Comedy|Western
+Movie name:  JFK (1991)  ||genres:  Drama|Mystery|Thriller
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Bourne Ultimatum, The (2007)  ||genres:  Action|Crime|Thriller
+Movie name:  Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)  ||genres:  Comedy|Romance
+Movie name:  Rocky V (1990)  ||genres:  Action|Drama
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+Movie name:  Perfect Murder, A (1998)  ||genres:  Thriller
+Movie name:  10 Things I Hate About You (1999)  ||genres:  Comedy|Romance
+Movie name:  Muppet Movie, The (1979)  ||genres:  Adventure|Children|Comedy|Musical
+Movie name:  Waking Ned Devine (a.k.a. Waking Ned) (1998)  ||genres:  Comedy
+Movie name:  Blade (1998)  ||genres:  Action|Horror|Thriller
+Movie name:  Beautiful Mind, A (2001)  ||genres:  Drama|Romance
+Movie name:  West Side Story (1961)  ||genres:  Drama|Musical|Romance
+Movie name:  Iron Man (2008)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  12 Angry Men (1957)  ||genres:  Drama
+Movie name:  Tank Girl (1995)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Saving Private Ryan (1998)  ||genres:  Action|Drama|War
+========Actually Seen Movies=======
+Movie name:  Harry and the Hendersons (1987)  || genres:  Children|Comedy
+Rating:  3.0
+Movie name:  On Any Sunday (1971)  || genres:  Documentary
+Rating:  4.0
+Movie name:  RoboCop (1987)  || genres:  Action|Crime|Drama|Sci-Fi|Thriller
+Rating:  4.0
+Movie name:  Love and Basketball (2000)  || genres:  Drama|Romance
+Rating:  4.0
+Movie name:  Oliver! (1968)  || genres:  Drama|Musical
+Rating:  3.0
+Movie name:  What Women Want (2000)  || genres:  Comedy|Romance
+Rating:  3.0
+Movie name:  Third Man, The (1949)  || genres:  Film-Noir|Mystery|Thriller
+Rating:  4.0
+Movie name:  Night of the Living Dead (1968)  || genres:  Horror|Sci-Fi|Thriller
+Rating:  4.0
+Movie name:  We're Back! A Dinosaur's Story (1993)  || genres:  Adventure|Animation|Children|Fantasy
+Rating:  2.0
+Movie name:  Hustler White (1996)  || genres:  Romance
+Rating:  5.0
+====================================================================
+For user  670
+========Recommend Movies=======
+Movie name:  L.A. Confidential (1997)  ||genres:  Crime|Film-Noir|Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Boogie Nights (1997)  ||genres:  Drama
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Sixth Sense, The (1999)  ||genres:  Drama|Horror|Mystery
+Movie name:  One Flew Over the Cuckoo's Nest (1975)  ||genres:  Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Fifth Element, The (1997)  ||genres:  Action|Adventure|Comedy|Sci-Fi
+Movie name:  Breakfast at Tiffany's (1961)  ||genres:  Drama|Romance
+Movie name:  Spirited Away (Sen to Chihiro no kamikakushi) (2001)  ||genres:  Adventure|Animation|Fantasy
+Movie name:  Magnolia (1999)  ||genres:  Drama
+Movie name:  Men in Black (a.k.a. MIB) (1997)  ||genres:  Action|Comedy|Sci-Fi
+Movie name:  Monsters, Inc. (2001)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Inception (2010)  ||genres:  Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+Movie name:  Titanic (1997)  ||genres:  Drama|Romance
+Movie name:  African Queen, The (1951)  ||genres:  Adventure|Comedy|Romance|War
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Ocean's Eleven (2001)  ||genres:  Crime|Thriller
+========Actually Seen Movies=======
+Movie name:  Mirror, The (Zerkalo) (1975)  || genres:  Drama
+Rating:  2.0
+Movie name:  Blow-Out (La grande bouffe) (1973)  || genres:  Drama
+Rating:  5.0
+Movie name:  Hidden, The (1987)  || genres:  Action|Horror|Sci-Fi
+Rating:  3.0
+Movie name:  Color of Paradise, The (Rang-e khoda) (1999)  || genres:  Drama
+Rating:  5.0
+Movie name:  Program, The (1993)  || genres:  Action|Drama
+Rating:  4.0
+Movie name:  Clue (1985)  || genres:  Comedy|Crime|Mystery|Thriller
+Rating:  2.0
+Movie name:  Outside Providence (1999)  || genres:  Comedy
+Rating:  3.0
+Movie name:  Last Temptation of Christ, The (1988)  || genres:  Drama
+Rating:  4.0
+Movie name:  Othello (1995)  || genres:  Drama
+Rating:  5.0
+Movie name:  Jumanji (1995)  || genres:  Adventure|Children|Fantasy
+Rating:  4.0
+====================================================================
+For user  671
+========Recommend Movies=======
+Movie name:  Shawshank Redemption, The (1994)  ||genres:  Crime|Drama
+Movie name:  Matrix, The (1999)  ||genres:  Action|Sci-Fi|Thriller
+Movie name:  Schindler's List (1993)  ||genres:  Drama|War
+Movie name:  Forrest Gump (1994)  ||genres:  Comedy|Drama|Romance|War
+Movie name:  Star Wars: Episode IV - A New Hope (1977)  ||genres:  Action|Adventure|Sci-Fi
+Movie name:  Lord of the Rings: The Two Towers, The (2002)  ||genres:  Adventure|Fantasy
+Movie name:  Memento (2000)  ||genres:  Mystery|Thriller
+Movie name:  Godfather, The (1972)  ||genres:  Crime|Drama
+Movie name:  Dracula (Bram Stoker's Dracula) (1992)  ||genres:  Fantasy|Horror|Romance|Thriller
+Movie name:  Lord of the Rings: The Fellowship of the Ring, The (2001)  ||genres:  Adventure|Fantasy
+Movie name:  Beverly Hills Cop (1984)  ||genres:  Action|Comedy|Crime|Drama
+Movie name:  American Beauty (1999)  ||genres:  Drama|Romance
+Movie name:  Lord of the Rings: The Return of the King, The (2003)  ||genres:  Action|Adventure|Drama|Fantasy
+Movie name:  Back to the Future (1985)  ||genres:  Adventure|Comedy|Sci-Fi
+Movie name:  Toy Story (1995)  ||genres:  Adventure|Animation|Children|Comedy|Fantasy
+Movie name:  Pulp Fiction (1994)  ||genres:  Comedy|Crime|Drama|Thriller
+Movie name:  Usual Suspects, The (1995)  ||genres:  Crime|Mystery|Thriller
+Movie name:  Dark Knight, The (2008)  ||genres:  Action|Crime|Drama|IMAX
+Movie name:  Ferris Bueller's Day Off (1986)  ||genres:  Comedy
+Movie name:  Dangerous Minds (1995)  ||genres:  Drama
+========Actually Seen Movies=======
+Movie name:  Freddy Got Fingered (2001)  || genres:  Comedy
+Rating:  4.0
+Movie name:  Perfume: The Story of a Murderer (2006)  || genres:  Crime|Drama|Thriller
+Rating:  3.5
+Movie name:  Thank You for Smoking (2006)  || genres:  Comedy|Drama
+Rating:  2.5
+Movie name:  Pink Panther, The (2006)  || genres:  Adventure|Comedy|Crime
+Rating:  4.0
+Movie name:  Born in East L.A. (1987)  || genres:  Comedy
+Rating:  4.0
+Movie name:  Woodsman, The (2004)  || genres:  Drama
+Rating:  4.0
+Movie name:  Spring Forward (1999)  || genres:  Drama
+Rating:  2.0
+Movie name:  After School Special (a.k.a. Barely Legal) (2003)  || genres:  Comedy
+Rating:  2.5
+Movie name:  Great Dictator, The (1940)  || genres:  Comedy|Drama|War
+Rating:  5.0
+Movie name:  Substitute, The (1996)  || genres:  Action|Crime|Drama
+Rating:  4.0
