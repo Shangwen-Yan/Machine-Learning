@@ -14,11 +14,11 @@ Here we implement a movie recommendation system based on Auto-Encoder and K-Mean
 With the increasing development of technology and Internet, more and more customers choose to spend their spare time online instead of off-line. As a result, it's becoming of great importance to make a good use of the data produced by the consumers to offer a better consumption environment which is of great benefit both for merchants and customers.
 As one of the results, recommender systems have become increasingly popular in recent years, and are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. Here we implement a movie recommendation system using movie-lens dataset.
 
-##Related works
-###movie recommendation
+## Related works
+### movie recommendation
 Traditional way is to take the user, predict the ratings for all the movies from movies' catalog, sort the movies in descending order by the predicted ratings, then take the top 10 movies and recommend them. Some CNN methods also used in movie recommendation system. But all of this algorithm only focus on genres of movies but not user's characteristics.
 
-###Encoder+K-means
+### Encoder+K-means
 This combination actually used more often in image classification. It's main idea is first move redundancy in images by an encoder. And then clustering images with encoded image can speed up the whole algorithm.
 
 ## Dataset
@@ -36,7 +36,7 @@ __Files we use:__
 
 ### Training data
 Since it's a clustering problem, it's more important to train the clusters. We only use 7100 users for traing, and make the data in to a torch of size (7100,27278,3) which means (number of users, number of movies, (rating, mean_rating, genres)). Since genres are given as text, we use one-hot-coding to turn it into binary int, and then decimal int.
-![屏幕快照 2018-05-02 下午2.43.11.png](resources/C608ADA4760D219EC2FC89DEDCD83DB3.png =331x465)
+![](resources/C608ADA4760D219EC2FC89DEDCD83DB3.png =331x465)
 ### Testing data
 We only use 20 users for testing case. And for those testing users, we split the most recently 20 ratings used to compared with the recommended movies, and the past records to go through the encoder and k-means to do the recommendation
 
