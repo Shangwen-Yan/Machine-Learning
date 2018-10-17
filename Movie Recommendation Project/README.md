@@ -55,7 +55,7 @@ $L(W) = MSE +\lambda (W^TW-I)$
 __epoch vs loss:__
 
 |__epoch vs loss__|__input vs decoded__|
-|-|-|-|
+|-|-|
 |![屏幕快照 2018-05-02 下午2.46.45.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/A86D494400FAC494E9AF67DD8D215EBD.png)| ![屏幕快照 2018-05-02 下午2.52.36.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/0240B0E21D96089848A1DCE30FC35253.png)|
 
 
