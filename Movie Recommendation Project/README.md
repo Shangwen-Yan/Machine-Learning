@@ -42,9 +42,9 @@ We only use 20 users for testing case. And for those testing users, we split the
 
 ## Architecture
 The whole architecture is: first we use encoder to reduce the number of features which makes it simpler for the kmeans part, then use k-means to group the users into 9 clusters. After calculating the scores movies in each clusters, we recommend 30 movies which have not been seen by the users to them.
-![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/E0E82EAC9A56BF24EDAE8F58CA3FED98.png =814x322)
+![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/E0E82EAC9A56BF24EDAE8F58CA3FED98.png)
 ### Encoder part
-![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/475E22E4FE0B8816883BA6808A2A92BC.png =393x154)
+![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/475E22E4FE0B8816883BA6808A2A92BC.png)
 First, we  train an autoencoder to make the decoded and input matrix as samilar as possible.
 
 To make sure AE’s weights  are  orthogonal , we add penalty to __MSE loss:__
@@ -55,7 +55,7 @@ __epoch vs loss:__
 
 |__epoch vs loss__|__input vs decoded__|
 |-|-|-|
-|![屏幕快照 2018-05-02 下午2.46.45.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/A86D494400FAC494E9AF67DD8D215EBD.png =385x261)| ![屏幕快照 2018-05-02 下午2.52.36.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/0240B0E21D96089848A1DCE30FC35253.png =390x305)|
+|![屏幕快照 2018-05-02 下午2.46.45.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/A86D494400FAC494E9AF67DD8D215EBD.png)| ![屏幕快照 2018-05-02 下午2.52.36.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/0240B0E21D96089848A1DCE30FC35253.png)|
 
 
 The encoded tensor represents input tensor well, but with fewer features, which makes it easier for clustering  in k-means part.
