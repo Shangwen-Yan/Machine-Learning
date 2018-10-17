@@ -102,10 +102,12 @@ here shoes one user's result:
 
 __Recommend:__
 Beauty and the Beast
+
 Speed
 
 __Actually watched:__
 Beauty and the Beast
+
 Speed 2
 
 
