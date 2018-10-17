@@ -50,7 +50,7 @@ First, we  train an autoencoder to make the decoded and input matrix as samilar 
 
 To make sure AE’s weights  are  orthogonal , we add penalty to __MSE loss:__
 
-$L(W) = MSE +\lambda (W^TW-I)$
+$$ L(W) = MSE +\lambda (W^TW-I) $$
 
 __epoch vs loss:__
 
@@ -99,6 +99,7 @@ here shoes one user's result:
 ![屏幕快照 2018-05-02 上午1.01.07.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/B12A98C5E1B1B02477BB73F65712CDF8.png)
 ![屏幕快照 2018-05-02 上午1.01.19.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/706EE04321FEDA5BBE1DB20EC858B839.png)
 ![屏幕快照 2018-05-02 上午1.01.33.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/76AD975344B616206ED712BEB04B4C30.png)
+
 __Recommend:__
 Beauty and the Beast
 Speed
