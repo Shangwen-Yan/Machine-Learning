@@ -101,11 +101,13 @@ here shoes one user's result:
 ![屏幕快照 2018-05-02 上午1.01.33.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/76AD975344B616206ED712BEB04B4C30.png)
 
 __Recommend:__
+
 Beauty and the Beast
 
 Speed
 
 __Actually watched:__
+
 Beauty and the Beast
 
 Speed 2
