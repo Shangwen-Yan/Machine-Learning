@@ -42,9 +42,9 @@ We only use 20 users for testing case. And for those testing users, we split the
 
 ## Architecture
 The whole architecture is: first we use encoder to reduce the number of features which makes it simpler for the kmeans part, then use k-means to group the users into 9 clusters. After calculating the scores movies in each clusters, we recommend 30 movies which have not been seen by the users to them.
-![屏幕快照 2018-05-02 下午2.43.21.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/E0E82EAC9A56BF24EDAE8F58CA3FED98.png =814x322)
+![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/E0E82EAC9A56BF24EDAE8F58CA3FED98.png =814x322)
 ### Encoder part
-![屏幕快照 2018-05-02 下午2.46.33.png](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/475E22E4FE0B8816883BA6808A2A92BC.png =393x154)
+![image](https://github.com/Shangwen-Yan/Machine_Leaning/blob/master/Movie%20Recommendation%20Project/resources/475E22E4FE0B8816883BA6808A2A92BC.png =393x154)
 First, we  train an autoencoder to make the decoded and input matrix as samilar as possible.
 
 To make sure AE’s weights  are  orthogonal , we add penalty to __MSE loss:__
