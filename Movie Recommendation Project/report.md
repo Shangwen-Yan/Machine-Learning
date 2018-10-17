@@ -36,7 +36,7 @@ __Files we use:__
 
 ### Training data
 Since it's a clustering problem, it's more important to train the clusters. We only use 7100 users for traing, and make the data in to a torch of size (7100,27278,3) which means (number of users, number of movies, (rating, mean_rating, genres)). Since genres are given as text, we use one-hot-coding to turn it into binary int, and then decimal int.
-![](resources/C608ADA4760D219EC2FC89DEDCD83DB3.png =331x465)
+[](resources/C608ADA4760D219EC2FC89DEDCD83DB3.png =331x465)
 ### Testing data
 We only use 20 users for testing case. And for those testing users, we split the most recently 20 ratings used to compared with the recommended movies, and the past records to go through the encoder and k-means to do the recommendation
 
